@@ -1,0 +1,16 @@
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\bin\Debug\net6.0\ExamenFInal.exe
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\bin\Debug\net6.0\ExamenFInal.deps.json
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\bin\Debug\net6.0\ExamenFInal.runtimeconfig.json
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\bin\Debug\net6.0\ExamenFInal.dll
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\bin\Debug\net6.0\ref\ExamenFInal.dll
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\bin\Debug\net6.0\ExamenFInal.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.GlobalUsings.g.cs
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.dll
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ref\ExamenFInal.dll
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.pdb
+C:\Users\alexi\OneDrive\Documentos\C# Universidad\ExamenFInal\obj\Debug\net6.0\ExamenFInal.genruntimeconfig.cache
